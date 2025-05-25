@@ -56,6 +56,18 @@ A modern, cross-platform News application built with **Flutter**, delivering rea
 ```bash
 git clone https://github.com/89999892/newsApp.git
 cd newsApp
-## 2. Install Dependencies
-
+---
+### 2. Install Dependencies
+```bash
 flutter pub get
+---
+### 3. Add API Key
+Create a .env file at the root of your project and insert your API key:
+```bash
+NEWS_API_KEY=your_api_key_here
+
+You can get your key from https://newsapi.org
+---
+### 4. Run the App
+```bash
+flutter run
