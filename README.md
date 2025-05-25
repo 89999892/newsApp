@@ -1,7 +1,7 @@
 NewsApp
 A modern, cross-platform News App built with Flutter, featuring real-time news updates, category filters, and a clean UI inspired by Android design principles.
 
-Demo Video: Watch Here
+Demo Video: Watch Here https://www.youtube.com/shorts/dJUbELuk2Q4
 
 Features
 📰 News Aggregation:
